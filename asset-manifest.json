@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b39ced9e.css",
-    "main.js": "/portfolio/static/js/main.8e3eb5ea.js",
+    "main.js": "/portfolio/static/js/main.ee77272c.js",
     "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/solar.jpg": "/portfolio/static/media/solar.45d1ca6eee6d142d349c.jpg",
     "static/media/kosmo.jpg": "/portfolio/static/media/kosmo.577146fc24ccdfdd0f65.jpg",
@@ -18,7 +18,7 @@
     "static/media/cars-market.jpg": "/portfolio/static/media/cars-market.37207e5ec184d0b9ab6e.jpg",
     "static/media/marvel.jpg": "/portfolio/static/media/marvel.989d0b839e8d37bb134d.jpg",
     "static/media/heroes.jpg": "/portfolio/static/media/heroes.adf813f2042b70890992.jpg",
-    "static/media/castomize.jpg": "/portfolio/static/media/castomize.3c67d58b5cc152163e39.jpg",
+    "static/media/castomize.jpg": "/portfolio/static/media/castomize.37d754d86859be202c43.jpg",
     "static/media/dashboard.jpg": "/portfolio/static/media/dashboard.459488dc601c01cc8795.jpg",
     "static/media/sass.png": "/portfolio/static/media/sass.e3e8cd440ee71b857af5.png",
     "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
@@ -51,10 +51,10 @@
     "static/media/arrow.svg": "/portfolio/static/media/arrow.4eed7631b4dc954192f9ef989f623189.svg",
     "static/media/flag-ua.svg": "/portfolio/static/media/flag-ua.32b4cbb1714174e4ae846c50371d15d5.svg",
     "main.b39ced9e.css.map": "/portfolio/static/css/main.b39ced9e.css.map",
-    "main.8e3eb5ea.js.map": "/portfolio/static/js/main.8e3eb5ea.js.map"
+    "main.ee77272c.js.map": "/portfolio/static/js/main.ee77272c.js.map"
   },
   "entrypoints": [
     "static/css/main.b39ced9e.css",
-    "static/js/main.8e3eb5ea.js"
+    "static/js/main.ee77272c.js"
   ]
 }
