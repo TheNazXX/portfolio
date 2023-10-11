@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.245f245c.css",
-    "main.js": "/portfolio/static/js/main.f4ed7a3c.js",
+    "main.js": "/portfolio/static/js/main.607e669e.js",
     "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/solar.jpg": "/portfolio/static/media/solar.45d1ca6eee6d142d349c.jpg",
     "static/media/kosmo.jpg": "/portfolio/static/media/kosmo.577146fc24ccdfdd0f65.jpg",
     "static/media/wow-lending.jpg": "/portfolio/static/media/wow-lending.e09dbafc3791b1edc085.jpg",
+    "static/media/surf.jpg": "/portfolio/static/media/surf.5476437496aebd33b4c3.jpg",
     "static/media/digi.jpg": "/portfolio/static/media/digi.b5458347d6bacd5ce079.jpg",
     "static/media/magma.jpg": "/portfolio/static/media/magma.a77fa3bb1347480ac33e.jpg",
     "static/media/earth.png": "/portfolio/static/media/earth.acf609f457bfa5e974d0.png",
@@ -52,10 +53,10 @@
     "static/media/arrow.svg": "/portfolio/static/media/arrow.4eed7631b4dc954192f9ef989f623189.svg",
     "static/media/flag-ua.svg": "/portfolio/static/media/flag-ua.32b4cbb1714174e4ae846c50371d15d5.svg",
     "main.245f245c.css.map": "/portfolio/static/css/main.245f245c.css.map",
-    "main.f4ed7a3c.js.map": "/portfolio/static/js/main.f4ed7a3c.js.map"
+    "main.607e669e.js.map": "/portfolio/static/js/main.607e669e.js.map"
   },
   "entrypoints": [
     "static/css/main.245f245c.css",
-    "static/js/main.f4ed7a3c.js"
+    "static/js/main.607e669e.js"
   ]
 }
